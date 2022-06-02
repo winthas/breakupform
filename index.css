@@ -1,0 +1,38 @@
+html, body{
+    background-color: rgb(226, 148, 148);
+}
+.main{
+    max-width: 700px;
+    margin: auto;
+}
+.box{
+    background-color: rgb(243, 205, 205);
+    padding: 20px;
+    margin: 30px;
+}
+.box100{
+    width: 100px;
+}
+.box200{
+    width: 350px;
+}
+.box70{
+    width: 80px;
+}
+.head{
+    color: red;
+}
+.tab{
+    border: 1px solid #000000;
+    width: 80%;
+    text-align: left;
+}
+.image{
+    width: 60px;
+}
+.flightNumber{
+    width: 130px;
+}
+.date{
+    width : 240px;
+}
